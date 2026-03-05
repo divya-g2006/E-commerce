@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/api/(.*)",
-      "destination": "https://e-commerce-at6a.onrender.com"
-    }
-  ]
-}
