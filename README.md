@@ -71,22 +71,22 @@ E-Commerce/
 └── project/
     ├── src/
     │   ├── components/
-    │   │   ├── Navbar.tsx
-    │   │   ├── ProductList.tsx
-    │   │   ├── Cart.tsx
-    │   │   ├── Login.tsx
-    │   │   ├── Register.tsx
-    │   │   ├── AdminPanel.tsx
-    │   │   ├── ProtectedRoute.tsx
-    │   │   └── AdminRoute.tsx
+    │   │   ├── Navbar.jsx
+    │   │   ├── ProductList.jsx
+    │   │   ├── Cart.jsx
+    │   │   ├── Login.jsx
+    │   │   ├── Register.jsx
+    │   │   ├── AdminPanel.jsx
+    │   │   ├── ProtectedRoute.jsx
+    │   │   └── AdminRoute.jsx
     │   ├── pages/
-    │   │   ├── ProductDetails.tsx
-    │   │   └── Orders.tsx
+    │   │   ├── ProductDetails.jsx
+    │   │   └── Orders.jsx
     │   ├── contexts/
-    │   │   └── AuthContext.tsx
+    │   │   └── AuthContext.jsx
     │   ├── lib/
-    │   │   └── api.ts
-    │   └── App.tsx
+    │   │   └── api.js
+    │   └── App.jsx
     └── package.json
 ```
 
